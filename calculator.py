@@ -13,3 +13,6 @@ def sub(a, b):
 
 def multilpy(a, b):
     return a * b
+
+def divide(a, b):
+    return a / b
