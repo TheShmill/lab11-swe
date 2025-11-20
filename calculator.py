@@ -23,5 +23,5 @@ def divide(a, b):
     return a / b
 
 
-def exponent(a, b):
-    return a**b
+def exponent(x, b):
+    return x**b
