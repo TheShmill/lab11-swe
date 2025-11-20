@@ -24,5 +24,4 @@ def divide(a, b):
 
 
 def exponent(a, b):
-    return pow(a, b)
-
+    return a**b
