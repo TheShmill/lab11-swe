@@ -16,3 +16,6 @@ def multilpy(a, b):
 
 def divide(a, b):
     return a / b
+
+def exponent(a, b):
+    return a ** b
